@@ -3,7 +3,7 @@ GitHub repository for websites utilized to document the popularity and influence
 
 We note that since our initial collection of these websites (Summer 2021), several of these websites have moved to different domains or have shifted in content. 
 
-This dataset consists of 227 QAnon focused websites, 193 UFO/Aliens focused websites, 135 COVID-19 focused websites, 104 9/11 focused and 97 Flat-Earth focused websites. 
+This dataset consists of 227 QAnon focused websites, 193 UFO/Aliens focused websites, 134 COVID-19 focused websites, 104 9/11 focused and 97 Flat-Earth focused websites. 
 
 For additional details about the collection method and analysis of these websites' connection with other misinformation-related websites as well as more reliable mainstream news websites, see our paper/analysis here: https://arxiv.org/pdf/2301.10880.pdf
 
