@@ -1,4 +1,4 @@
-## A Golden-Age Conspiracy Theory Website Lists
+## A Golden Age Conspiracy Theory Website Lists
 GitHub repository for websites utilized to document the popularity and influence of different conspiracy theories.
 
 We note that since our initial collection of these websites (Summer 2021), several of these websites have moved to different domains or have shifted in content. 
