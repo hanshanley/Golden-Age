@@ -10,31 +10,12 @@ For additional details about the collection method and analysis of these website
 ## Citing the paper
 If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
 
-@article{wood2018propagating,
-  title={Propagating and debunking conspiracy theories on Twitter during the 2015--2016 Zika virus outbreak},
-  author={Wood, Michael J},
-  journal={Cyberpsychology, behavior, and social networking},
-  volume={21},
-  number={8},
-  pages={485--490},
-  year={2018},
-  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
-}
-
-@article{golden2023hanley,
-        author = {Hanley, Hans W. A. and Kumar, Deepak and Durumeric, Zakir},
-        title = {A Golden Age: Conspiracy Theories' Relationship with Misinformation Outlets, News Media, and the Wider Internet},
-        year = {2023},
-        issue_date = {October 2023},
-        publisher = {Association for Computing Machinery},
-        address = {New York, NY, USA},
-        volume = {7},
-        number = {CSCW2},
-        url = {https://doi.org/10.1145/3610043},
-        doi = {10.1145/3610043},
-        month = {oct},
-        articleno = {252},
-        numpages = {33},
-        keywords = {disinformation, 9/11, COVID-19, aliens, misinformation, conspiracy theories, flat-earth, QAnon, social networks, UFO}
+@inproceedings{hanley2021no,
+  title={No Calm in The Storm: Investigating QAnon Website Relationships},
+  author={Hanley, Hans WA and Kumar, Deepak and Durumeric, Zakir},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={16},
+  pages={299--310},
+  year={2022}
 }
 
