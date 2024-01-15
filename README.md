@@ -10,7 +10,7 @@ For additional details about the collection method and analysis of these website
 ## Citing the paper
 If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
 
-   @article{10.1145/3610043,
+@article{10.1145/3610043,
         author = {Hanley, Hans W. A. and Kumar, Deepak and Durumeric, Zakir},
         title = {A Golden Age: Conspiracy Theories' Relationship with Misinformation Outlets, News Media, and the Wider Internet},
         year = {2023},
