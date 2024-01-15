@@ -10,6 +10,17 @@ For additional details about the collection method and analysis of these website
 ## Citing the paper
 If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
 
+@article{wood2018propagating,
+  title={Propagating and debunking conspiracy theories on Twitter during the 2015--2016 Zika virus outbreak},
+  author={Wood, Michael J},
+  journal={Cyberpsychology, behavior, and social networking},
+  volume={21},
+  number={8},
+  pages={485--490},
+  year={2018},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
+}
+
 @article{golden2023hanley,
         author = {Hanley, Hans W. A. and Kumar, Deepak and Durumeric, Zakir},
         title = {A Golden Age: Conspiracy Theories' Relationship with Misinformation Outlets, News Media, and the Wider Internet},
