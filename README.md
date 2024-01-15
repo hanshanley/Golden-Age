@@ -10,7 +10,7 @@ For additional details about the collection method and analysis of these website
 ## Citing the paper
 If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
 
-@article{10.1145/3610043,
+@misc{10.1145/3610043,
         author = {Hanley, Hans W. A. and Kumar, Deepak and Durumeric, Zakir},
         title = {A Golden Age: Conspiracy Theories' Relationship with Misinformation Outlets, News Media, and the Wider Internet},
         year = {2023},
@@ -21,11 +21,9 @@ If our lists of sites are useful for your own research, you can cite us with the
         number = {CSCW2},
         url = {https://doi.org/10.1145/3610043},
         doi = {10.1145/3610043},
-        journal = {Proc. ACM Hum.-Comput. Interact.},
         month = {oct},
         articleno = {252},
         numpages = {33},
         keywords = {disinformation, 9/11, COVID-19, aliens, misinformation, conspiracy theories, flat-earth, QAnon, social networks, UFO}
 }
-
 
